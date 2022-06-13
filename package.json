@@ -1,0 +1,25 @@
+{
+  "name": "git-heart",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoFarias2/git-heart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoFarias2/git-heart/issues"
+  },
+  "homepage": "https://github.com/GustavoFarias2/git-heart#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "simple-git": "^3.7.1"
+  }
+}
