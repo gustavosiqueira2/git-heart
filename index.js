@@ -1,13 +1,13 @@
 import simpleGit from 'simple-git';
 import jsonfile from 'jsonfile';
 
+const FILE_PATH = './changes.json';
+
 function addDays(date, days) {
   var result = new Date(date);
   result.setDate(result.getDate() + days);
   return result;
 }
-
-const FILE_PATH = './changes.json';
 
 const argv = process.argv.slice(2);
 
