@@ -1,13 +1,14 @@
 <h1 align='center'>
   GIT HEART ❤️
-
 </h1>
 
 <p align="center">
   <img src="https://github.com/GustavoFarias2/ReadMeImages/blob/master/corações.png" />
 </p>
 
-A way to your github be a little difference to the others 🤭
+<h5 align='center'>
+  A way to your github be a little difference to the others 🤭
+</h5>
 
 ## 💕 how to love
 
