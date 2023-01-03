@@ -6,9 +6,9 @@
   <img src="https://github.com/GustavoFarias2/ReadMeImages/blob/master/corações.png" />
 </p>
 
-<h5 align='center'>
+<h4 align='center'>
   A way to your github be a little difference to the others 🤭
-</h5>
+</h4>
 
 ## 💕 how to love
 
