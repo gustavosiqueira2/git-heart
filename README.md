@@ -2,11 +2,12 @@
   GIT HEART ❤️
 </h1>
 
-A way to your github be a little difference to the others 🤭
 
 <p align="center">
   <img src="https://github.com/GustavoFarias2/ReadMeImages/blob/master/corações.png" />
 </p>
+
+A way to your github be a little difference to the others 🤭
 
 ## 💕 how to love
 
